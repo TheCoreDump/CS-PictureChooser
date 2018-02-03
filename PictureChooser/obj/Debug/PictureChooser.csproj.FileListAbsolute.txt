@@ -1,0 +1,11 @@
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\bin\Debug\PictureChooser.exe.config
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\bin\Debug\PictureChooser.exe
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\bin\Debug\PictureChooser.pdb
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.csprojResolveAssemblyReference.cache
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.Form1.resources
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.Properties.Resources.resources
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.csproj.GenerateResource.Cache
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.exe
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.pdb
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Dev\Personal\CS-PictureChooser\PictureChooser\bin\Debug\System.Threading.Tasks.Dataflow.xml
