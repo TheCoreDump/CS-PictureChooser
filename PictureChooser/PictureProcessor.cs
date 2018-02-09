@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Drawing;
 using System.IO;
 using System.Threading.Tasks.Dataflow;
 
@@ -32,6 +33,24 @@ namespace PictureChooser
         {
             string newFileName = Path.Combine(workDirectory.FullName, fileInfo.Name);
             return fileInfo.CopyTo(newFileName);
+        }
+
+        protected FileInfo RotateImage(FileInfo imageFile)
+        {
+            using (FileStream FS = imageFile.Open(FileMode.Open, FileAccess.Read))
+            {
+                Image i = Image.FromFile("test");
+
+                Console.WriteLine($"Image Size: {i.Size.Width} x {i.Size.Height}");
+            }
+
+
+        }
+
+        protected void DeleteTempCopy(FileInfo fileInfo)
+        {
+            if (fileInfo.Exists)
+                fileInfo.Delete();
         }
 
         public void Dispose()
