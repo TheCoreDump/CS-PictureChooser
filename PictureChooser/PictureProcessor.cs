@@ -44,7 +44,7 @@ namespace PictureChooser
                 Console.WriteLine($"Image Size: {i.Size.Width} x {i.Size.Height}");
             }
 
-
+            throw new NotImplementedException();
         }
 
         protected void DeleteTempCopy(FileInfo fileInfo)

@@ -9,3 +9,17 @@ C:\Dev\Personal\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.exe
 C:\Dev\Personal\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.pdb
 C:\Dev\Personal\CS-PictureChooser\PictureChooser\bin\Debug\System.Threading.Tasks.Dataflow.dll
 C:\Dev\Personal\CS-PictureChooser\PictureChooser\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Projects\CS\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.csprojResolveAssemblyReference.cache
+D:\Projects\CS\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.Form1.resources
+D:\Projects\CS\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.PictureChooserForm.resources
+D:\Projects\CS\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.Properties.Resources.resources
+D:\Projects\CS\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.csproj.GenerateResource.cache
+D:\Projects\CS\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.csproj.CoreCompileInputs.cache
+D:\Projects\CS\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.exe
+D:\Projects\CS\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.pdb
+D:\Projects\CS\CS-PictureChooser\PictureChooser\bin\Debug\PictureChooser.exe.config
+D:\Projects\CS\CS-PictureChooser\PictureChooser\bin\Debug\PictureChooser.exe
+D:\Projects\CS\CS-PictureChooser\PictureChooser\bin\Debug\PictureChooser.pdb
+D:\Projects\CS\CS-PictureChooser\PictureChooser\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Projects\CS\CS-PictureChooser\PictureChooser\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Projects\CS\CS-PictureChooser\PictureChooser\obj\Debug\PictureChooser.csproj.CopyComplete
